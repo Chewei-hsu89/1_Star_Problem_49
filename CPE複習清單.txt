@@ -1,0 +1,9 @@
+CPE49:
+UVA10931 Parity
+UVA11461 Square Number
+UVA100   The 3n+1
+UVA10035 Primary Arithmetic
+UVA10929 You can say 11
+
+CPE49外:
+UVA401   Palindrome 
